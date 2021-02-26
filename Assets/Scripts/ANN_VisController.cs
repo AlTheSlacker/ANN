@@ -94,6 +94,7 @@ public class ANN_VisController : MonoBehaviour
         int outputPositionID = aNN_Synapse.OutputNeuron.PositionID;
 
         GameObject synapseGO = new GameObject();
+        synapseGO.name = "Synapse_" + synapseID;
         AddTextObject(synapseGO);
 
         Vector3 dir = (neuronObjects[outputLayerID][outputPositionID].transform.position - neuronObjects[inputLayerID][inputPositionID].transform.position).normalized;
@@ -148,7 +149,7 @@ public class ANN_VisController : MonoBehaviour
             case 200: // Input
                 return Color.cyan;
             case 300: // Output
-                return Color.white;
+                return Color.black;
 
             case 400: // Bias
                 return Color.yellow;
@@ -206,6 +207,7 @@ public class ANN_VisController : MonoBehaviour
         GameObject textDisplay;
         TMPro.TextMeshPro tmp;
         textDisplay = new GameObject();
+        textDisplay.name = "TextObject";
         textDisplay.transform.rotation *= Quaternion.Euler(0, -90, 0);
         textDisplay.AddComponent<TMPro.TextMeshPro>();
         textDisplay.transform.SetParent(go.transform);
