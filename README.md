@@ -13,4 +13,4 @@
  
  4) Added the ability to train the network with a target error level.
  
- I would really like to move the back-propagation part to a compute shader, but I just can't figure our how to convert all the object data to appropriate 1D arrays and wrap some code around it. I'd love to hear from anyone who figures it out and does not mind sharing.
+ I would really like to move the back-propagation part to a compute shader, but I just can't figure out how to convert all the object data to appropriate 1D arrays and wrap some code around it. I'd love to hear from anyone who figures it out and does not mind sharing.
