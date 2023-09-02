@@ -14,9 +14,10 @@
 
  Warning! Things have moved on a lot since I first wrote this and I would encourage anyone interested in ANNs to follow this excellent lecture series and then write something much better than my efforts here!
  
-https://www.youtube.com/watch?v=VMj-3S1tku0
-https://www.youtube.com/watch?v=PaCmpygFfXo
-https://www.youtube.com/watch?v=TCH_1BHY58I
-https://www.youtube.com/watch?v=P6sfmUTpUmc
-https://www.youtube.com/watch?v=q8SA3rM6ckI
-https://www.youtube.com/watch?v=t3YJ5hKiMQ0
+ https://www.youtube.com/watch?v=VMj-3S1tku0
+ https://www.youtube.com/watch?v=PaCmpygFfXo
+ https://www.youtube.com/watch?v=TCH_1BHY58I
+ https://www.youtube.com/watch?v=P6sfmUTpUmc
+ https://www.youtube.com/watch?v=q8SA3rM6ckI
+ https://www.youtube.com/watch?v=t3YJ5hKiMQ0
+
