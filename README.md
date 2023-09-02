@@ -13,6 +13,7 @@
  I would really like to move the back-propagation part to a compute shader, but I just can't figure out how to convert all the object data to appropriate 1D arrays and wrap some code around it. I'd love to hear from anyone who figures it out and does not mind sharing.
 
  Warning! Things have moved on a lot since I first wrote this and I would encourage anyone interested in ANNs to follow this excellent lecture series and then write something much better than my efforts here!
+ Open the readme for a bunch of youtube links, they don't all show in a web browser for some reason
  
  https://www.youtube.com/watch?v=VMj-3S1tku0
  https://www.youtube.com/watch?v=PaCmpygFfXo
